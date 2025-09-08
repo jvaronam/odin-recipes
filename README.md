@@ -1,3 +1,5 @@
 # odin-recipes
-Supuestamente tengo que hacer esto:
-Write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+This project is a basic recipe website built with HTML.
+I have done three pages with recipes for Lasagna Bolognese, Spanish Tortilla and Paella Valenciana.
+Each page has an image of the finished dish, a description, ingredients and steps.
+The goal is to practice structuring content and linking multiple pages.
